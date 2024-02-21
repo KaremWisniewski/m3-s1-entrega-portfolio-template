@@ -1,0 +1,17 @@
+.aboutMe {
+    background-color: var(--color-black);
+    display: flex;
+    padding: 4rem;
+    align-items: center;
+    width: 100%;
+    max-width: 65rem ;
+}
+
+.divAboutMe{
+    margin-left: 5rem;
+}
+
+h2{
+    display: flex;
+    width: 400px;
+}

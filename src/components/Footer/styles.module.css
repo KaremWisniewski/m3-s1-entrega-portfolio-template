@@ -1,0 +1,18 @@
+.footer{
+    background-color:var(--color-black);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    width: 100%;
+    max-width: 65rem ;
+    margin: 0 auto 16px;
+    padding: 4rem;
+    border-top: 1px solid var(--color-white);
+    border-bottom: 1px solid var(--color-white);
+    margin-bottom: 5px;
+}
+
+.footerImg{
+    margin: 0.5rem;
+}
+

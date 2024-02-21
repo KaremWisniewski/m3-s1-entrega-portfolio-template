@@ -1,0 +1,11 @@
+.btn{
+    padding: 1rem;
+    border-radius: 0.5rem;
+
+    background-color: var(--color-blue-primary);
+    color: var(--color-white);
+
+    font-size: .875rem;
+    font-weight: 600;
+    line-height: 1.0588rem;
+}

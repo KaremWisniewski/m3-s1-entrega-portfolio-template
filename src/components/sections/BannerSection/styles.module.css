@@ -1,0 +1,14 @@
+.bannerSection{
+    background-color: var(--color-black);
+    display: flex;
+    padding: 4rem;
+    align-items: center;
+    width: 100%;
+    max-width: 65rem ;
+}
+
+@media (max-width: 600px){
+    .bannerSection{
+        flex-direction: column;
+    }
+}
